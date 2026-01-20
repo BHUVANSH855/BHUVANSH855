@@ -21,14 +21,10 @@
 ---
 
 ## 🏆 GitHub Achievements
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=BHUVANSH855&theme=darkhub&no-frame=true&margin-w=12)
+<img src="https://github-profile-trophy.vercel.app/?username=BHUVANSH855&theme=darkhub&no-frame=true&column=6" />
 
 ---
-## 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=BHUVANSH855" />
-
----
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BHUVANSH855&show_icons=true&theme=tokyonight&hide_border=true)
 
