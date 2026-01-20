@@ -1,23 +1,51 @@
 # 👋 Hi, I'm Bhuvansh Kataria
 
-🎓 B.E. CSE Student  
-💻 Aspiring Software / Full-Stack Developer  
-🚀 Interested in Web Development & Core Programming  
+🎓 **B.E. Computer Science Engineering Student**  
+💻 **Aspiring Software & Full-Stack Developer**  
+🚀 **Focused on Web Development & Core Programming**
 
-## 🧠 Skills
-- Programming: C, C++, Python (if applicable)
-- Web: HTML, CSS, JavaScript
-- Tools: Git, GitHub, VS Code
+---
 
-## 📌 What I'm Currently Doing
-- Improving DSA & problem-solving
-- Building beginner-to-intermediate projects
-- Learning Git & GitHub properly
+## 🧠 Technical Skills
+- **Programming Languages:** C, C++, Python  
+- **Web Technologies:** HTML, CSS, JavaScript  
+- **Tools & Platforms:** Git, GitHub, VS Code  
+
+---
+
+## 📌 Currently Working On
+- Strengthening **Data Structures & Algorithms**
+- Building **beginner to intermediate real-world projects**
+- Learning **Git & GitHub** workflows and open-source practices
+
+---
+
+## 🏆 GitHub Achievements
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=BHUVANSH855&theme=darkhub&no-frame=true&margin-w=12)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BHUVANSH855&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BHUVANSH855&theme=tokyonight&hide_border=true)
+
+---
+
+## 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BHUVANSH855&layout=compact&theme=tokyonight&hide_border=true)
+
+---
 
 ## 🎯 Goals
-- Build strong real-world projects
-- Contribute to open source
-- Prepare for internships
+- Build **strong, practical real-world projects**
+- Contribute consistently to **open-source**
+- Prepare effectively for **internships & software roles**
+
+---
 
 ## 📫 Contact
-- Email: bhuvanshkataria@gmail.com
+- 📧 **Email:** bhuvanshkataria@gmail.com  
+- 🌐 **GitHub:** https://github.com/BHUVANSH855  
+
+⭐ *Always learning. Always building.*
