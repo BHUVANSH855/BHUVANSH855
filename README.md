@@ -1,51 +1,112 @@
-# 👋 Hi, I'm Bhuvansh Kataria
+<h1 align="center">Hi, I'm Bhuvansh 👋</h1>
 
-🎓 **B.E. Computer Science Engineering Student**  
-💻 **Aspiring Software & Full-Stack Developer**  
-🚀 **Focused on Web Development & Core Programming**
+<p align="center">
+🚀 Open Source Contributor | ECWoC'26 Rank #20 | OSCG'26 Rank #18 <br>
+💻 Backend & Web Developer | Problem Solver
+</p>
 
----
-
-## 🧠 Technical Skills
-- **Programming Languages:** C, C++, Python  
-- **Web Technologies:** HTML, CSS, JavaScript  
-- **Tools & Platforms:** Git, GitHub, VS Code  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BHUVANSH855&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 📌 Currently Working On
-- Strengthening **Data Structures & Algorithms**
-- Building **beginner to intermediate real-world projects**
-- Learning **Git & GitHub** workflows and open-source practices
+## 🧠 About Me
+
+- 🎓 Computer Science Engineering Student  
+- 💻 Building **secure, scalable web applications**  
+- 🛠️ Strong in **Data Structures, DBMS, OOPs**  
+- 🌍 Active Open Source Contributor  
+- 🎯 Targeting:
+  - MLH Fellowship  
+  - Linux Foundation Mentorship  
 
 ---
 
-## 🏆 GitHub Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=BHUVANSH855&theme=darkhub&no-frame=true&column=6" />
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhuvansh-kataria-041572322/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bhuvansh-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/Bhuvansh_/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/BHUVANSH_11351">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank" />
+  </a>
+  <a href="https://discordapp.com/users/1442638897917202515">
+    <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 ECWoC 2026 — Rank #20  
+- 🥈 OSCG 2026 — Rank #18  
+- 💼 Deloitte Technology Job Simulation (Forage)  
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,php,mysql" />
+</p>
+
+---
+
+## 🚀 Open Source Contributions
+
+- Contributed to production-level open source projects:
+  - Feature enhancements  
+  - Bug fixes  
+  - Code refactoring  
+- Focused on improving **code quality & maintainability**
+- Delivered multiple PRs including feature enhancements, bug fixes, and refactoring in collaborative environments
+
+---
+## 📌 Key Projects
+
+### 🏦 Banking Management System  
+🔗 https://github.com/BHUVANSH855/BANKING-MANAGEMENT-SYSTEM  
+- Secure authentication-based system  
+- Account creation, transactions, history  
+
+---
+
+### 📊 AI Attendance Insights System  
+🔗 https://github.com/BHUVANSH855/ai-attendance-insights-snowflake  
+- Data analytics using Snowflake  
+- Trends, patterns & anomaly detection  
+
+---
+
+### ✍️ English Grammar Checker  
+🔗 https://github.com/BHUVANSH855/english-grammar-checker  
+- Detects grammar issues and improves sentence quality  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BHUVANSH855&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BHUVANSH855&theme=tokyonight&hide_border=true)
-
----
-
-## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BHUVANSH855&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BHUVANSH855&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BHUVANSH855&theme=tokyonight" />
+</p>
 
 ---
 
-## 🎯 Goals
-- Build **strong, practical real-world projects**
-- Contribute consistently to **open-source**
-- Prepare effectively for **internships & software roles**
+## ⚡ Current Focus
+
+- 🚀 High-impact open source contributions  
+- 🎯 MLH Fellowship & Linux Foundation  
+- 📚 Backend + system design  
 
 ---
 
-## 📫 Contact
-- 📧 **Email:** bhuvanshkataria@gmail.com  
-- 🌐 **GitHub:** https://github.com/BHUVANSH855  
-
-⭐ *Always learning. Always building.*
+<p align="center">
+✨ Consistency + Impact = Growth ✨
+</p>
